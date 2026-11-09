@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+data/attendance.db
+data/students/
+models/*.yml
+models/labels.txt
+.DS_Store
